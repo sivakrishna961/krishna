@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 this is branch2 file  added
+=======
+this  is branch2 file  done
+>>>>>>> refs/remotes/origin/main
